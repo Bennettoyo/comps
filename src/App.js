@@ -1,8 +1,23 @@
+import Button from "./Button";
+
 function App() {
   return (
     <div>
-      <h1>Hello, world!</h1>
-      <p>This is a simple React application.</p>
+      <div>
+        <Button></Button>
+      </div>
+      <div>
+        <Button></Button>
+      </div>
+      <div>
+        <Button></Button>
+      </div>
+      <div>
+        <Button></Button>
+      </div>
+      <div>
+        <Button></Button>
+      </div>
     </div>
   );
 }
